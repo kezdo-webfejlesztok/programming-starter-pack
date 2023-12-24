@@ -8,6 +8,16 @@ So, let's gather all the 'best' programming resources here. Over time, we will s
 
 Optional topics are not necessary for junior-level knowledge, but they are good to know.
 
+For programming first, you need to select a path.
+You need to decide the programming language based on your goals,
+what you want to achieve with programming, what you want to program.
+
+For example, for hardware (physical things) programming, you need to learn one of them: C, C++, Rust, etc.
+For frontend web development, you need to learn HTML, CSS, and JavaScript.
+For backend web development you need to learn one of them: JavaScript, Python, PHP, Java, C#, Go, Rust, etc.
+With JavaScript, you can do frontend and backend development too, so it's a good start for web development.
+For mobile development, you need to learn one of them: Java, Kotlin, Swift, Dart, etc.
+
 You can find programming roadmaps here: [roadmap.sh](https://roadmap.sh/)
 
 You can read / watch hungarian materials here: [README.hu.md](README.hu.md)
