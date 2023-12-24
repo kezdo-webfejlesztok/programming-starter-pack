@@ -1,4 +1,4 @@
-# Kezdőcsomag programozáshoz - Magyar nyelven
+# Kezdőcsomag programozáshoz - Magyar nyelven [folyamatban]
 
 Ez egy gyűjtemény a programozás tanulásához szükséges források összegyűjtésére.
 

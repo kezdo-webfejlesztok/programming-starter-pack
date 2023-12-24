@@ -1,4 +1,4 @@
-# Programming Starter Pack
+# Programming Starter Pack <small>[Work in progress]</small>
 
 This is a repository for collecting resources to learn programming.
 
@@ -21,6 +21,10 @@ For mobile development, you need to learn one of them: Java, Kotlin, Swift, Dart
 You can find programming roadmaps here: [roadmap.sh](https://roadmap.sh/)
 
 You can read / watch hungarian materials here: [README.hu.md](README.hu.md)
+
+# Contribution
+
+If you have any suggestions, please create a well-specified issue or pull request.
 
 # Web-programming starter pack (HTML, CSS, JavaScript)
 
@@ -67,8 +71,13 @@ Tutorial:
 
 ## JavaScript
 
+### General - Language basics
+
 - Text:
   - [You don't know JS - Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md)
+
+### Promises
+
 - Video:
   - [Promises - Web Dev Simplified](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH-0FlQnruw2rd1HuiYJHHkm)
 
