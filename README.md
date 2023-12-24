@@ -10,6 +10,8 @@ Optional topics are not necessary for junior-level knowledge, but they are good 
 
 You can find programming roadmaps here: [roadmap.sh](https://roadmap.sh/)
 
+You can read / watch hungarian materials here: [README.hu.md](README.hu.md)
+
 # Web-programming starter pack (HTML, CSS, JavaScript)
 
 For learning web-programming, you need to learn HTML, CSS, and JavaScript.
