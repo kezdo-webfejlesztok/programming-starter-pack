@@ -44,41 +44,49 @@ Tutorial:
   - [Responsive design on MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
 - Free video
   - [HTML/CSS tutorial (Net Ninja)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
-  - [CSS understand cascading and specificity (Net Ninja)](https://www.youtube.com/watch?v=_DeC_O9S9ag&list=PL4cUxeGkcC9jS4SctqK83Ag58a0_UEcE_&index=1)
+  - [CSS - understand cascading and specificity (Net Ninja)](https://www.youtube.com/watch?v=_DeC_O9S9ag&list=PL4cUxeGkcC9jS4SctqK83Ag58a0_UEcE_&index=1)
 - Paid online courses
   - [Jonas Schmedtmann's HTML5 and CSS course](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 
 *MDN: Mozilla Developer Network
 
-### Optional topics
+### Optional HTML / CSS topics
 
 #### CSS - Cascade Layers
 
-  - Video: [Cascade Layers - "New" CSS Feature](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jS4SctqK83Ag58a0_UEcE_)
-  - Text: [MDN - Cascade Layers](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_layers)
-  - Most of the browsers support it, you can check it [here](https://caniuse.com/?search=%40layer)
+- Video: [Cascade Layers - "New" CSS Feature](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jS4SctqK83Ag58a0_UEcE_)
+- Text: [MDN - Cascade Layers](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_layers)
+- Most of the browsers support it, you can check it [here](https://caniuse.com/?search=%40layer)
 
-#### SASS
+#### SASS - CSS preprocessor
 
 - Free Video:
   - [SASS tutorial (Net Ninja)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iEwigam3gTjU_7IA3W2WZA)
 - Interactive tutorial:
   - [SASS - W3 schools](https://www.w3schools.com/sass/sass_intro.php)
 
-### TODO
-
-- Make order / split this playlist into topics: [Full Stack Web Development Course](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8jbFkBjOuFjhxANC63OmXM)
-
-<!--
 ## JavaScript
 
-- [Promises - Web Dev Simplified](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH-0FlQnruw2rd1HuiYJHHkm)
+- Text:
+  - [You don't know JS - Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md)
+- Video:
+  - [Promises - Web Dev Simplified](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH-0FlQnruw2rd1HuiYJHHkm)
 
--->
+### Optional JavaScript topics
+
+- Video:
+  - [JavaScript The Good Parts - Douglas Crockford - Tech Talk - ~1h](https://www.youtube.com/watch?v=hQVTIJBZook)
+  - [Destroy All Software - Gary Bernhardt - WAT - from 1:00 - ~4min](https://www.destroyallsoftware.com/talks/wat)
+- Paid online courses:
+  - [JavaScript: The Weird Parts - Udemy - Anthony Alicea](https://www.udemy.com/course/understand-javascript/)
 
 ## Best Authors
 
 - [Net Ninja](https://netninja.dev/) - 9$ / month - last update: 2023 december
 - [Fun Fun Function - Mattias Petter Johansson - MPJ](https://www.youtube.com/@funfunfunction) - Free - Ended in 2020
+
+## TODO
+
+- Make order / split this playlist into topics: [Full Stack Web Development Course](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8jbFkBjOuFjhxANC63OmXM)
 
 <!-- https://nextjs.org/learn -->
