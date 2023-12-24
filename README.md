@@ -8,6 +8,8 @@ So, let's gather all the 'best' programming resources here. Over time, we will s
 
 Optional topics are not necessary for junior-level knowledge, but they are good to know.
 
+You can find programming roadmaps here: [roadmap.sh](https://roadmap.sh/)
+
 # Web-programming starter pack (HTML, CSS, JavaScript)
 
 For learning web-programming, you need to learn HTML, CSS, and JavaScript.
@@ -26,9 +28,11 @@ Tutorial:
   - [Flexbox Froggy](https://flexboxfroggy.com/)
   - [Flexbox Defense](http://www.flexboxdefense.com/)
   - [CSS Grid Garden](https://cssgridgarden.com/)
-- Video
+- Free video
   - [HTML/CSS tutorial (Net Ninja)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
   - [CSS understand cascading and specificity (Net Ninja)](https://www.youtube.com/watch?v=_DeC_O9S9ag&list=PL4cUxeGkcC9jS4SctqK83Ag58a0_UEcE_&index=1)
+- Paid online courses
+  - [Jonas Schmedtmann's HTML5 and CSS course](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 
 *MDN: Mozilla Developer Network
 
@@ -36,8 +40,16 @@ Tutorial:
 
 #### CSS - Cascade Layers
 
-  - [Cascade Layers - "New" CSS Feature](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jS4SctqK83Ag58a0_UEcE_)
+  - Video: [Cascade Layers - "New" CSS Feature](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jS4SctqK83Ag58a0_UEcE_)
+  - Text: [MDN - Cascade Layers](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_layers)
   - Most of the browsers support it, you can check it [here](https://caniuse.com/?search=%40layer)
+
+#### SASS
+
+- Free Video:
+  - [SASS tutorial (Net Ninja)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iEwigam3gTjU_7IA3W2WZA)
+- Interactive tutorial:
+  - [SASS - W3 schools](https://www.w3schools.com/sass/sass_intro.php)
 
 ### TODO
 
