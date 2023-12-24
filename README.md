@@ -71,6 +71,11 @@ Tutorial:
 
 ## JavaScript
 
+Online paid courses:
+- [The Complete JavaScript Course 2024: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
+- [The Modern Javascript Bootcamp Course](https://www.udemy.com/course/javascript-beginners-complete-tutorial/)
+
+
 ### General - Language basics
 
 - Text:
@@ -88,6 +93,13 @@ Tutorial:
   - [Destroy All Software - Gary Bernhardt - WAT - from 1:00 - ~4min](https://www.destroyallsoftware.com/talks/wat)
 - Paid online courses:
   - [JavaScript: The Weird Parts - Udemy - Anthony Alicea](https://www.udemy.com/course/understand-javascript/)
+
+## Linux / Bash / Command Line (CLI)
+
+- For deploying web applications, you need to know how to use the command line.
+- On servers, you will use Linux (most of the time), so you need to know how to use it.
+- If you're lucky, then you can avoid learning command line.
+  There are providers where you can deploy your application without using the command line. 
 
 ## Best Authors
 
