@@ -30,6 +30,8 @@ Tutorial:
   - [Flexbox Froggy](https://flexboxfroggy.com/)
   - [Flexbox Defense](http://www.flexboxdefense.com/)
   - [CSS Grid Garden](https://cssgridgarden.com/)
+  - [Media Queries - Andrés Galante - CSS Tricks](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
+  - [Responsive design on MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
 - Free video
   - [HTML/CSS tutorial (Net Ninja)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
   - [CSS understand cascading and specificity (Net Ninja)](https://www.youtube.com/watch?v=_DeC_O9S9ag&list=PL4cUxeGkcC9jS4SctqK83Ag58a0_UEcE_&index=1)
