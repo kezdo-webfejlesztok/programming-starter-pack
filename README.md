@@ -81,6 +81,12 @@ Online paid courses:
 - Text:
   - [You don't know JS - Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md)
 
+### DOM - Document Object Model
+
+- Text:
+  - [DOM enlightenment](http://domenlightenment.com/)
+  - [DOM - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+
 ### Promises
 
 - Video:
@@ -93,6 +99,13 @@ Online paid courses:
   - [Destroy All Software - Gary Bernhardt - WAT - from 1:00 - ~4min](https://www.destroyallsoftware.com/talks/wat)
 - Paid online courses:
   - [JavaScript: The Weird Parts - Udemy - Anthony Alicea](https://www.udemy.com/course/understand-javascript/)
+
+### Frameworks and libraries
+
+#### React
+
+- Text:
+  - [React Enlightenment - Cody Lindley - FrontendMasters](https://www.reactenlightenment.com)
 
 ## Linux / Bash / Command Line (CLI)
 
