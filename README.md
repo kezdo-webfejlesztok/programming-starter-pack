@@ -71,9 +71,13 @@ Tutorial:
 
 ## JavaScript
 
-Online paid courses:
-- [The Complete JavaScript Course 2024: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
-- [The Modern Javascript Bootcamp Course](https://www.udemy.com/course/javascript-beginners-complete-tutorial/)
+- Text
+  - [JavaScript tutorial on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  - [JavaScript.info](https://javascript.info/)
+  - [Eloquent JavaScript](https://eloquentjavascript.net/)
+- Online paid courses:
+  - [The Complete JavaScript Course 2024: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
+  - [The Modern Javascript Bootcamp Course](https://www.udemy.com/course/javascript-beginners-complete-tutorial/)
 
 
 ### General - Language basics
