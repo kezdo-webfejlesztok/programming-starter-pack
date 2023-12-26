@@ -118,6 +118,8 @@ Tutorial:
 
 - Text:
   - [React Enlightenment - Cody Lindley - FrontendMasters](https://www.reactenlightenment.com)
+  - [React - MDN](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)
+  - [React/Redux links](https://github.com/markerikson/react-redux-links)
 
 #### Next.js
 
