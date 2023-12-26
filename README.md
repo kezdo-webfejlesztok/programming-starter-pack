@@ -104,12 +104,25 @@ Tutorial:
 - Paid online courses:
   - [JavaScript: The Weird Parts - Udemy - Anthony Alicea](https://www.udemy.com/course/understand-javascript/)
 
+### JavaScript - Interview preparation
+
+- [Codewars](https://www.codewars.com/)
+- [HackerRank](https://www.hackerrank.com/)
+- [LeetCode](https://leetcode.com/)
+- [Exercism](https://exercism.io/)
+- [CodeSignal](https://codesignal.com/)
+
 ### Frameworks and libraries
 
 #### React
 
 - Text:
   - [React Enlightenment - Cody Lindley - FrontendMasters](https://www.reactenlightenment.com)
+
+#### Next.js
+
+- Text:
+  - [Next.js official tutorial](https://nextjs.org/learn)
 
 ## Linux / Bash / Command Line (CLI)
 
@@ -126,5 +139,3 @@ Tutorial:
 ## TODO
 
 - Make order / split this playlist into topics: [Full Stack Web Development Course](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8jbFkBjOuFjhxANC63OmXM)
-
-<!-- https://nextjs.org/learn -->
