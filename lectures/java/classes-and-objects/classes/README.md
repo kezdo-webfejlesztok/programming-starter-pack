@@ -69,7 +69,7 @@ In the body of the class, we can define the attributes and behaviors (methods) o
 
 > [!NOTE]
 > Upper CamelCase (Pascal case) is a naming convention in which the first letter of each word in a compound word is
-> capitalized. For example: AudioSystem 
+> capitalized. For example: AudioSystem
 
 - **No Spaces or Underscores**: There are no spaces or underscores between words. Each word is directly connected to the
   next, with their boundary indicated by a capital letter.
@@ -155,33 +155,17 @@ D) The class name should begin with a capital letter
 
 ### Answers:
 
--
-    1. Question: What are the primitive data types in Java from the following options?
-
-    - B) int, double, char, boolean
--
-    2. Question: Why can't real-world entities like books be adequately represented using only primitive data types in
-       Java?
-
-    - A) Because real-world entities are too complex to be represented using primitive data types
--
-    3. Question: What is a class in Java?
-
-    - B) A template for creating objects
--
-    4. Question: In the context of Java, what does an instance of a class represent?
-
-    - C) A real-world entity
--
-    5. Question: How is an instance of a class created in Java?
-
-    - C) Using the new keyword followed by the class name
--
-    6. Question: What should be the relationship between the name of a Java class and the filename in which it is
-       declared?
-
-    - C) The class name and filename should be the same
--
-    7. Question: Which of the following statements about a Java class is NOT true?
-
-    - B) A class must have at least one method (Classes can exist without explicit methods) 
+1. Question: What are the primitive data types in Java from the following options?
+ - B) int, double, char, boolean
+2. Question: Why can't real-world entities like books be adequately represented using only primitive data types in Java?
+  - A) Because real-world entities are too complex to be represented using primitive data types
+3. Question: What is a class in Java?
+  - B) A template for creating objects
+4. Question: In the context of Java, what does an instance of a class represent?
+  - C) A real-world entity
+5. Question: How is an instance of a class created in Java?
+  - C) Using the new keyword followed by the class name
+6. Question: What should be the relationship between the name of a Java class and the filename in which it is declared?
+  - C) The class name and filename should be the same
+7. Question: Which of the following statements about a Java class is NOT true?
+  - B) A class must have at least one method (Classes can exist without explicit methods) 
