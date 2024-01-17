@@ -182,3 +182,5 @@ We will add them in the next section: [Fields](../fields-properties-attributes/R
 7. Question: Which of the following statements about a Java class is NOT true?
 
 - B) A class must have at least one method (Classes can exist without explicit methods) 
+
+Next section: [Fields](../fields-properties-attributes/README.md).
