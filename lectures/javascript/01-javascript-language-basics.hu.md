@@ -7,7 +7,10 @@
 - Változók (variables)
 - Adat típusok (data types)
 - Kiiratás (console)
-- Vezérlési szerkezetek (control flow): if, for
+- Operátorok (operators)
+- Vezérlési szerkezetek (control flow)
+  - Feltételek (conditions)
+  - Ciklusok (loops)
 
 ## Megnézendő ingyenes anyagok - videók
 
