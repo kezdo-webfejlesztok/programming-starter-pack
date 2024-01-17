@@ -1,21 +1,32 @@
 # Java Classes and Objects
 
-## You will learn about these topics in this lecture
+## You will learn about these topics in this section
 
-- Object-oriented programming paradigm
 - Classes
   - Syntax
   - Naming convention
-- Class members / Fields / Properties
+- Fields / properties / attributes
 - Constructor
-- `this` keyword
+  - Syntax
+  - Overloading constructors
+  - Default constructor
+  - `this` keyword
 - Importing classes
 - Objects (instances)
 - Methods
-- `public` and `private` access modifiers
-- Getters and setters
+  - Syntax
+  - Calling methods
+  - Method parameters
+    - Types of parameters
+  - Return values
 - Encapsulation
+  - `public` and `private` access modifiers
+  - Getters and setters
+- Method overloading
+  - Syntax
+  - Overloading methods
 - static members
 
 ## Materials and Resources
 
+## Exercises and Assignments
