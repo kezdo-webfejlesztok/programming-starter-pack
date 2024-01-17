@@ -5,6 +5,8 @@
 - Classes
   - Syntax
   - Naming convention
+  - Importing classes
+- Objects (instances)
 - Fields / properties / attributes
 - Methods
   - Syntax
@@ -12,8 +14,6 @@
   - Method parameters
     - Types of parameters
   - Return values
-- Importing classes
-- Objects (instances)
 - Constructor
   - Syntax
   - Overloading constructors
