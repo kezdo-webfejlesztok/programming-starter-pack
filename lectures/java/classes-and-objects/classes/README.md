@@ -134,38 +134,51 @@ We will add them in the next section: [Fields](../fields-properties-attributes/R
 
 ### Question 5: How is an instance of a class created in Java?
 
-A) Using the instance keyword
-B) By calling a function
-C) Using the new keyword followed by the class name
-D) By importing the class
+- A) Using the instance keyword
+- B) By calling any function
+- C) Using the new keyword followed by the class name
+- D) By importing the class from another file or package or library or module
 
 ### Question 6: What should be the relationship between the name of a Java class and the filename in which it is declared?
 
-A) The names can be different
-B) The filename should be in lowercase
-C) The class name and filename should be the same
-D) The filename should have a special character prefix
+- A) The names can be different
+- B) The filename should be in lowercase
+- C) The class name and filename should be the same
+- D) The filename should have a special character prefix
 
 ### Question 7: Which of the following statements about a Java class is NOT true?
 
-A) A class can contain methods and behaviors
-B) A class must have at least one method
-C) A class is a blueprint for objects
-D) The class name should begin with a capital letter
+- A) A class can contain methods and behaviors
+- B) A class must have at least one method
+- C) A class is a blueprint for objects
+- D) The class name should begin with a capital letter
 
 ### Answers:
 
 1. Question: What are the primitive data types in Java from the following options?
- - B) int, double, char, boolean
+
+- B) int, double, char, boolean
+
 2. Question: Why can't real-world entities like books be adequately represented using only primitive data types in Java?
-  - A) Because real-world entities are too complex to be represented using primitive data types
+
+- A) Because real-world entities are too complex to be represented using primitive data types
+
 3. Question: What is a class in Java?
-  - B) A template for creating objects
+
+- B) A template for creating objects
+
 4. Question: In the context of Java, what does an instance of a class represent?
-  - C) A real-world entity
+
+- C) A real-world entity
+
 5. Question: How is an instance of a class created in Java?
-  - C) Using the new keyword followed by the class name
+
+- C) Using the new keyword followed by the class name
+
 6. Question: What should be the relationship between the name of a Java class and the filename in which it is declared?
-  - C) The class name and filename should be the same
+
+- C) The class name and filename should be the same
+
 7. Question: Which of the following statements about a Java class is NOT true?
-  - B) A class must have at least one method (Classes can exist without explicit methods) 
+
+- B) A class must have at least one method (Classes can exist without explicit methods) 
