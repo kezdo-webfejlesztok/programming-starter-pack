@@ -6,27 +6,31 @@
   - Syntax
   - Naming convention
 - Fields / properties / attributes
-- Constructor
-  - Syntax
-  - Overloading constructors
-  - Default constructor
-  - `this` keyword
-- Importing classes
-- Objects (instances)
 - Methods
   - Syntax
   - Calling methods
   - Method parameters
     - Types of parameters
   - Return values
+- Importing classes
+- Objects (instances)
+- Constructor
+  - Syntax
+  - Overloading constructors
+  - Default constructor
+  - `this` keyword
 - Encapsulation
   - `public` and `private` access modifiers
   - Getters and setters
+
+<!--
 - Method overloading
   - Syntax
   - Overloading methods
-- static members
+- `static` members
+- summary
+-->
 
-## Materials and Resources
+## Materials & Resources
 
-## Exercises and Assignments
+- [Classes](./classes/)
