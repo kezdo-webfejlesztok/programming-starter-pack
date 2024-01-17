@@ -4,11 +4,12 @@
 
 ### Video materials to be watched before the class
 
-| Material                                                                    | Author          |  Time |
-|:----------------------------------------------------------------------------|-----------------|------:|
-| [Class and Object Theory](https://youtu.be/Znmz_WxMxp4?si=q1H_d-RBA9udk7TB) | Telusko         | 05:47 |
-| [Java Classes & Objects](https://youtu.be/IUqKuGNasdM?si=tAQmxKzMyvzg1TOB)  | Keep on Coding  | 11:35 |
-| [Classes & Objects](https://youtu.be/Mm06BuD3PlY?si=zalfU2mwtKaLBnlj)       | Giraffe Academy | 13:51 |
+| Material                                                                    | Author          |         Time |
+|:----------------------------------------------------------------------------|-----------------|-------------:|
+| [Class and Object Theory](https://youtu.be/Znmz_WxMxp4?si=q1H_d-RBA9udk7TB) | Telusko         |        05:47 |
+| [Java Classes & Objects](https://youtu.be/IUqKuGNasdM?si=tAQmxKzMyvzg1TOB)  | Keep on Coding  |        11:35 |
+| [Classes & Objects](https://youtu.be/Mm06BuD3PlY?si=zalfU2mwtKaLBnlj)       | Giraffe Academy |        13:51 |
+| -                                                                           | **Total**       | **~30 mins** |
 
 ### Theory
 
@@ -40,7 +41,9 @@ like one book of `The Lord of the Rings` or `Harry Potter and the Philosopher's 
 #### How to create a simple class?
 
 We need to create a new file with the name of the class and the `.java` extension.
-The name of the file should be the same as the name of the class.
+> [!IMPORTANT]
+> The name of the file should be the same as the name of the class.
+
 The name of the class should begin with a capital letter and follow the camel-case naming convention.
 The following code snippet illustrates the syntax of a class declaration.
 
