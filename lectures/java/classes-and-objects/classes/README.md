@@ -69,7 +69,7 @@ In the body of the class, we can define the attributes and behaviors (methods) o
 
 > [!NOTE]
 > Upper CamelCase (Pascal case) is a naming convention in which the first letter of each word in a compound word is
-> capitalized.
+> capitalized. For example: AudioSystem 
 
 - **No Spaces or Underscores**: There are no spaces or underscores between words. Each word is directly connected to the
   next, with their boundary indicated by a capital letter.
