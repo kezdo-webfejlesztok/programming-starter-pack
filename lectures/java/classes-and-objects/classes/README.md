@@ -151,10 +151,10 @@ We will add them in the next section: [Fields or Properties or Attributes](../fi
 
 ### Question 1: What are the primitive data types in Java from the following options?
 
-- A) Class, Object, Array
-- B) int, double, char, boolean
-- C) String, int, boolean, HashMap
-- D) Book, Class, int
+- () Class, Object, Array
+- () int, double, char, boolean
+- () String, int, boolean, HashMap
+- () Book, Class, int
 
 ### Question 2: Why can't real-world entities like books be adequately represented using only primitive data types in Java?
 
