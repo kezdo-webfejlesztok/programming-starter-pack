@@ -179,9 +179,9 @@ We will add them in the next section: [Fields or Properties or Attributes](../fi
 
 ### Question 5: How is an instance of a class created in Java?
 
-- A) Using the instance keyword
+- A) Using the `instance` keyword
 - B) By calling any function
-- C) Using the new keyword followed by the class name
+- C) Using the `new` keyword followed by the class name
 - D) By importing the class from another file or package or library or module
 
 ### Question 6: What should be the relationship between the name of a Java class and the filename in which it is declared?
@@ -194,9 +194,24 @@ We will add them in the next section: [Fields or Properties or Attributes](../fi
 ### Question 7: Which of the following statements about a Java class is NOT true?
 
 - A) A class can contain methods and behaviors
-- B) A class must have at least one method
+- B) A class must have at least one method or attribute
 - C) A class is a blueprint for objects
 - D) The class name should begin with a capital letter
+
+### Question 8: Which names are not allowed for a class based on the naming conventions? (Multiple choice)
+
+- A) Book
+- B) book
+- C) F16
+- D) F-16
+
+### Question 9: Which names are not allowed for an instance based on the naming conventions? (Multiple choice)
+
+- A) annasBowl
+- B) AnnasBowl
+- C) annas_bowl
+- D) F-16
+
 
 <details>
 <summary>Answers</summary>
@@ -219,7 +234,7 @@ We will add them in the next section: [Fields or Properties or Attributes](../fi
 
 5. Question: How is an instance of a class created in Java?
 
-- C) Using the new keyword followed by the class name
+- C) Using the `new` keyword followed by the class name
 
 6. Question: What should be the relationship between the name of a Java class and the filename in which it is declared?
 
@@ -228,6 +243,17 @@ We will add them in the next section: [Fields or Properties or Attributes](../fi
 7. Question: Which of the following statements about a Java class is NOT true?
 
 - B) A class must have at least one method (Classes can exist without explicit methods)
+
+8. Question: Which names are not allowed for a class based on the naming conventions? (Multiple choice)
+
+- B) `book` => class name should begin with a capital letter
+- D) `F-16` => class name should not contain special characters like `-`
+
+9. Question: Which names are not allowed for an instance based on the naming conventions? (Multiple choice)
+
+- B) `AnnasBowl` => instance name should begin with a lowercase letter
+- C) `annas_bowl` => instance name should not contain special characters like `_`
+- D) `F-16` => instance name should not contain special characters like `-`
 
 </details>
 
