@@ -106,10 +106,10 @@ It works like any other variable declaration and assignment.
 The variable `theGift` is declared with the type of `Book` and assigned with a new instance of the `Book` class.
 
 Let's break it down:
+Assignment in Java works from right to left.
 The **right side** of the assignment operator `=` is the creation of the object, creation of an instance of the class.
 An instance of a class is created using the `new` keyword followed by the name of the class.
-The name of the object variable should begin with a lowercase letter and follow the lower camelCase naming.
-The syntax for creating an instance of a class is similar to that of invoking a method.
+The syntax for creating an instance of a class is similar to invoking / calling a method.
 The `new` keyword is followed by the name of the class, and it's followed by a pair of parentheses `()`.
 Like methods, the parentheses are followed by a semicolon `;`.
 
