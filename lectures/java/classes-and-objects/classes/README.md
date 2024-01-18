@@ -97,7 +97,7 @@ public class Main {
 }
 ```
 
-> [!INFO]
+> [!NOTE]
 > You will learn about the `public`, `static` keywords later
 
 So the structure of creating an object is the following: `ClassName objectVariableName = new ClassName();`.
