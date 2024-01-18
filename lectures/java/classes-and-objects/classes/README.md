@@ -1,4 +1,4 @@
-# Classes
+# Simple classes and objects
 
 ## Materials & Resources
 
