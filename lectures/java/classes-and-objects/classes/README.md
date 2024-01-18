@@ -123,7 +123,7 @@ So we declare a variable with the name of `theGift` and the type of it's `Book`.
   next, with their boundary indicated by a capital letter.
 - **Descriptive and Intuitive**: Instance names should be nouns and are often descriptive of what the instance
   represents.
-- For example: `theGift`, `endrewsCar`, `myAccount`, `cityBank`, `ervinLibrary`, `harwardUniversity`, etc.
+- Example instance names: `theGift`, `endrewsCar`, `myAccount`, `cityBank`, `ervinLibrary`, `harwardUniversity`, etc.
 
 These naming conventions make the code more readable and easier to understand, as they help to distinguish between
 classes and instances. For instance, you can differentiate between a class name `Car` and an instance of this class
