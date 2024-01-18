@@ -9,7 +9,7 @@
 | [Class and Object Theory](https://youtu.be/Znmz_WxMxp4?si=q1H_d-RBA9udk7TB) | Telusko         |        05:47 |
 | [Java Classes & Objects](https://youtu.be/IUqKuGNasdM?si=tAQmxKzMyvzg1TOB)  | Keep on Coding  |        11:35 |
 | [Classes & Objects](https://youtu.be/Mm06BuD3PlY?si=zalfU2mwtKaLBnlj)       | Giraffe Academy |        13:51 |
-| -                                                                           | **Total**       | **~30 mins** |
+|                                                                             | **Total**       | **~30 mins** |
 
 ### Theoretical and Practical material
 
