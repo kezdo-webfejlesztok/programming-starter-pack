@@ -1,6 +1,6 @@
 # Java Classes and Objects
 
-## You will learn about these topics in this section
+## You will learn about these topics
 
 - Classes
   - Syntax
