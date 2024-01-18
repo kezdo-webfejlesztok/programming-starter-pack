@@ -36,6 +36,9 @@ In the example the `class` will be `Book` a new data type, what the developer ca
 One instance of a `Book` class will be one specified book,
 like one book of `The Lord of the Rings` or `Harry Potter and the Philosopher's Stone` or any other books.
 
+> [!CAUTION]
+> The `class` is not an object. And the `class` is not like a class or classroom in the school.
+
 !["Image of the relation between Book Class and Instances"](./images/01-class-book.png)
 
 #### How to create a simple class?
@@ -52,7 +55,7 @@ Let's create a new file called `Book.java` and write the following code into it:
 
 ```java
 class Book {
-    // class body, attributes and methods will be here
+    // class body: attributes and methods will be here later in the next sections
 }
 ```
 
