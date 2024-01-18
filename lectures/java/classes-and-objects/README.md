@@ -32,4 +32,4 @@
 
 ## Materials & Resources
 
-- [Classes](./classes/)
+- [Classes](./classes/README.md)
