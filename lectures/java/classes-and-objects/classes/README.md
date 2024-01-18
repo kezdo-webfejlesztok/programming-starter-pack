@@ -144,7 +144,7 @@ public class Main {
 }
 ```
 
-#### Next step
+## Next step
 
 In this case, the `Book` class and their instances don't have any attributes like title, author, and price.
 We will add them in the next section: [Fields or Properties or Attributes](../fields-properties-attributes/README.md).
