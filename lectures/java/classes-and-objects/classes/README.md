@@ -32,7 +32,7 @@ book, thereby providing a more accurate and useful representation in the context
 #### What is a `class`?
 
 A `class` is a blueprint or template for creating objects.
-In the example the `class` will be `Book` a new data type, what the developer can create.
+In the example the `class` will be `Book` a new data type, what developers can create.
 One instance of a `Book` class will be one specified book,
 like one book of `The Lord of the Rings` or `Harry Potter and the Philosopher's Stone` or any other books.
 
