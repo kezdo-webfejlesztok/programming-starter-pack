@@ -94,6 +94,7 @@ public class Main {
 }
 ```
 
+So the structure of creating an object is the following: `ClassName objectVariableName = new ClassName();`.
 An instance of a class is created using the `new` keyword followed by the name of the class.
 The syntax for creating an instance of a class is similar to that of invoking a method.
 The `new` keyword is followed by the name of the class, followed by a pair of parentheses `()`.
