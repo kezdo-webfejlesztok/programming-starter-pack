@@ -5,7 +5,6 @@
 - Classes
   - Syntax
   - Naming convention
-  - Importing classes
   - Objects (instances)
 - Fields / properties / attributes
 - Methods
