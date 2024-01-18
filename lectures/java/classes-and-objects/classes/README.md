@@ -65,6 +65,7 @@ naming convention
 therefore the name of the class is `Book`.
 The body of the class is enclosed within a pair of curly braces `{}`.
 In the body of the class, we can define the attributes and behaviors (methods) of the class.
+We will learn about attributes and methods in the next sections.
 
 #### Class name naming conventions
 
