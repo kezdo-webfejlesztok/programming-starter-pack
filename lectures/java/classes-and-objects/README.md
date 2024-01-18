@@ -15,9 +15,9 @@
   - Return values
 - Constructor
   - Syntax
-  - Overloading constructors
-  - Default constructor
   - `this` keyword
+  - default values
+  - Overloading constructors
 - Encapsulation
   - `public` and `private` access modifiers
   - Getters and setters
