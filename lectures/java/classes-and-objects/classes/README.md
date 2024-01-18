@@ -183,6 +183,6 @@ We will add them in the next section: [Fields](../fields-properties-attributes/R
 
 - B) A class must have at least one method (Classes can exist without explicit methods) 
 
-# Next section:
+# Next section
 
 [Fields](../fields-properties-attributes/README.md).
