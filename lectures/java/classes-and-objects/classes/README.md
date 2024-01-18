@@ -11,7 +11,7 @@
 | [Classes & Objects](https://youtu.be/Mm06BuD3PlY?si=zalfU2mwtKaLBnlj)       | Giraffe Academy |        13:51 |
 | -                                                                           | **Total**       | **~30 mins** |
 
-### Theory
+### Theoretical and Practical material
 
 #### What problem `class` solves?
 
