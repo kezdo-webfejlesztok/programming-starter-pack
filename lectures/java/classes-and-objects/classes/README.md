@@ -186,6 +186,7 @@ We will add them in the next section: [Fields](../fields-properties-attributes/R
 
 </details>
 
-# Next section
+# Next section: Fields
 
-[Fields](../fields-properties-attributes/README.md)
+In the next section, we will learn about attributes of a class, which are
+called: [Fields or Properties or Attributes](../fields-properties-attributes/README.md)
