@@ -92,7 +92,7 @@ and write the following code into it:
 ```java
 public class Main {
     public static void main(String[] args) {
-        Book book = new Book();
+        Book theGift = new Book();
     }
 }
 ```
@@ -101,13 +101,51 @@ public class Main {
 > You will learn about the `public`, `static` keywords later
 
 So the structure of creating an object is the following: `ClassName objectVariableName = new ClassName();`.
+
+It works like any other variable declaration and assignment.
+The variable `theGift` is declared with the type of `Book` and assigned with a new instance of the `Book` class.
+
+Let's break it down:
+The **right side** of the assignment operator `=` is the creation of the object, creation of an instance of the class.
 An instance of a class is created using the `new` keyword followed by the name of the class.
+The name of the object variable should begin with a lowercase letter and follow the lower camelCase naming.
 The syntax for creating an instance of a class is similar to that of invoking a method.
-The `new` keyword is followed by the name of the class, followed by a pair of parentheses `()`.
+The `new` keyword is followed by the name of the class, and it's followed by a pair of parentheses `()`.
 Like methods, the parentheses are followed by a semicolon `;`.
 
-In this case the book does not have any attributes like title, author, and price.
-We will add them in the next section: [Fields](../fields-properties-attributes/README.md).
+The **left side** of the assignment operator `=` is the declaration of a variable.
+So we declare a variable with the name of `theGift` and the type of it's `Book`.
+
+#### Instance naming conventions
+
+- **Case**: (Lower) camelCase
+- **No Spaces or Underscores**: There are no spaces or underscores between words. Each word is directly connected to the
+  next, with their boundary indicated by a capital letter.
+- **Descriptive and Intuitive**: Instance names should be nouns and are often descriptive of what the instance
+  represents. For example: `theGift`, `endrewsCar`, `myAccount`, `cityBank`, `ervinLibrary`, `harwardUniversity`, etc.
+
+These naming conventions make the code more readable and easier to understand, as they help to distinguish between
+classes and instances. For instance, you can differentiate between a class name `Car` and an instance of this class
+`endrewsCar`. This clarity in naming is important for writing maintainable and clear code.
+
+#### Can we create multiple instances of a class?
+
+Yes, we can create as many instances of a class as we want.
+Let's create another instance of the `Book` class in the `main` method.
+
+```java
+public class Main {
+    public static void main(String[] args) {
+        Book theGift = new Book();
+        Book theLordOfTheRings = new Book();
+    }
+}
+```
+
+#### Next step
+
+In this case, the `Book` class and their instances don't have any attributes like title, author, and price.
+We will add them in the next section: [Fields or Properties or Attributes](../fields-properties-attributes/README.md).
 
 ## Quiz
 
