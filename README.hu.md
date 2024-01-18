@@ -22,3 +22,7 @@ de azt javaslom, hogy először az HTML-t tanuld meg, utána a CSS-t, majd a Jav
 
 ## HTML / CSS
 
+## JavaScript
+
+ - JavaScript kezdőből haladó videó sorozat
+[WebMánia Youtube](https://www.youtube.com/watch?v=f3tGk_9eUJ0&list=PLbcJ_vPJW9XNGpDU2HhA1UPdQvMXa_M4f&pp=iAQB)
